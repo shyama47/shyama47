@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shyama Saha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyama47&label=Profile%20views&color=0e75b6&style=flat" alt="shyama47" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyama47" alt="shyama47" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [freelance-marketplace](https://freelance-marketplace-pr-fcd17.web.app/)
+- 🔭 I’m currently working on [apporbit-fullstack-project](https://apporbit-fullstack-project.web.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [volunteer-management](https://volunteer-management-pro-91392.web.app/)
-
-- 🤝 I’m looking for help with [apporbit-fullstack-project](https://apporbit-fullstack-project.web.app/)
-
-- 💬 Ask me about **Ask me about my learning journey with MERN Stack and how I’m exploring Next.js.**
+- 👯 I’m looking to collaborate on **github**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

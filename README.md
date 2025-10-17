@@ -1,7 +1,13 @@
 <img src="https://i.postimg.cc/SsZbnmCn/Screenshot-2025-10-17-095245.png"/>
 <h1 align="center">Hi 👋, I'm Shyama Saha</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<p>## 👋 Hi there, I'm Shyama Saha!  
 
+I’m a passionate **Web Development Learner** who has successfully completed **Programming Hero’s Web Developer course**.  
+I’ve built multiple responsive projects using **HTML, CSS, Tailwind CSS, JavaScript, React, and Firebase**.  
+Currently, I’m exploring **Next.js** and expanding my skills with **MongoDB** and **Express.js** to become a full-stack **MERN Developer**.  
+I love turning creative ideas into interactive, user-friendly web experiences. 🚀  
+</p>
 - 🔭 I’m currently working on [apporbit-fullstack-project](https://apporbit-fullstack-project.web.app/)
 
 - 🌱 I’m currently learning **Next.js**

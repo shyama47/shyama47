@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Shyama Saha</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Shyama Saha</h1>
+<h3 align="left">Frontend developer</h3>
 <img src="https://i.postimg.cc/SsZbnmCn/Screenshot-2025-10-17-095245.png"/>
 <p> I’m a passionate **Web Development Learner** who has successfully completed **Programming Hero’s Web Developer course**.  
 I’ve built multiple responsive projects using **HTML, CSS, Tailwind CSS, JavaScript, React, and Firebase**.  

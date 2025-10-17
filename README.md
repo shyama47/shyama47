@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/SsZbnmCn/Screenshot-2025-10-17-095245.png"/>
+<img width="full"  src="https://i.postimg.cc/SsZbnmCn/Screenshot-2025-10-17-095245.png"/>
 <h1 align="center">Hi 👋, I'm Shyama Saha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
